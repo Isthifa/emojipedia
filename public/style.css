@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #084141;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    font-size: 1rem;
+    text-align: center;
+    margin: auto 0;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #dfe6dc;
+}
+
+h1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dictionary{
+    background-color: #dfe6dc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #dfe6dc;
+}
+
+
+
+
+
+
